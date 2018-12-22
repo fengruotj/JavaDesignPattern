@@ -6,11 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="factory-pattern" />
         <module name="java-design-pattern" />
+        <module name="proxy-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="factory-pattern" target="1.7" />
       <module name="java-design-pattern" target="1.7" />
+      <module name="JavaDesignPattern" target="1.7" />
+      <module name="proxy-pattern" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
