@@ -8,7 +8,8 @@
   <modules>
     <module>factory-pattern</module>
     <module>proxy-pattern</module>
-    <module>design-pattern</module>
+    <module>strategy-pattern</module>
+    <module>observer-pattern</module>
   </modules>
   <packaging>pom</packaging>
 
