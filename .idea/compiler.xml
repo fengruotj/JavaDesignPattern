@@ -12,10 +12,12 @@
         <module name="java-design-pattern" />
         <module name="observer-pattern" />
         <module name="proxy-pattern" />
+        <module name="single-pattern" />
         <module name="strategy-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="aaa" target="1.7" />
       <module name="decorator-pattern" target="1.7" />
       <module name="design-pattern" target="1.7" />
       <module name="factory-pattern" target="1.7" />
@@ -23,6 +25,8 @@
       <module name="JavaDesignPattern" target="1.7" />
       <module name="observer-pattern" target="1.7" />
       <module name="proxy-pattern" target="1.7" />
+      <module name="single-pattern" target="1.7" />
+      <module name="singleton-pattern" target="1.7" />
       <module name="strategy-pattern" target="1.7" />
     </bytecodeTargetLevel>
   </component>
