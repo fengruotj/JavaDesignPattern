@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="command-pattern:war">
+    <output-path>$PROJECT_DIR$/command-pattern/target</output-path>
+    <root id="archive" name="command-pattern-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="command-pattern:war exploded" />
+    </root>
+  </artifact>
+</component>

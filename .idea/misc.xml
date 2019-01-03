@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/command-pattern" />
     <file type="web" url="file://$PROJECT_DIR$/singleton-pattern" />
   </component>
   <component name="MavenProjectsManager">
@@ -12,6 +13,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/aaa/pom.xml" />
+        <option value="$PROJECT_DIR$/command-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/singleton-pattern/pom.xml" />
       </set>
     </option>

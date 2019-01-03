@@ -12,6 +12,7 @@
     <module>observer-pattern</module>
     <module>decorator-pattern</module>
     <module>single-pattern</module>
+    <module>command-pattern</module>
   </modules>
   <packaging>pom</packaging>
 
