@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="adapter-pattern" />
         <module name="command-pattern" />
         <module name="decorator-pattern" />
         <module name="design-pattern" />
+        <module name="facade-pattern" />
         <module name="factory-pattern" />
         <module name="java-design-pattern" />
         <module name="observer-pattern" />
@@ -19,9 +21,11 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="aaa" target="1.7" />
+      <module name="adapter-pattern" target="1.7" />
       <module name="command-pattern" target="1.7" />
       <module name="decorator-pattern" target="1.7" />
       <module name="design-pattern" target="1.7" />
+      <module name="facade-pattern" target="1.7" />
       <module name="factory-pattern" target="1.7" />
       <module name="java-design-pattern" target="1.7" />
       <module name="JavaDesignPattern" target="1.7" />

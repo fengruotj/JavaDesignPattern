@@ -13,6 +13,8 @@
     <module>decorator-pattern</module>
     <module>single-pattern</module>
     <module>command-pattern</module>
+    <module>adapter-pattern</module>
+      <module>facade-pattern</module>
   </modules>
   <packaging>pom</packaging>
 
