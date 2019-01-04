@@ -4,7 +4,6 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/adapter-pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/command-pattern" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/command-pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/decorator-pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/facade-pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/factory-pattern" charset="UTF-8" />
@@ -18,6 +17,7 @@
     <file url="file://$PROJECT_DIR$/single-pattern/src/main/java/com/basic/inerclass/ChocolateBoiler.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/single-pattern/src/main/java/com/basic/sync/ChocolateBoiler.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/strategy-pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/templatemethod-pattern" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

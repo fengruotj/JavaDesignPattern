@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" filepath="$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/single-pattern/single-pattern.iml" filepath="$PROJECT_DIR$/single-pattern/single-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" filepath="$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/templatemethod-pattern/templatemethod-pattern.iml" filepath="$PROJECT_DIR$/templatemethod-pattern/templatemethod-pattern.iml" />
     </modules>
   </component>
 </project>
