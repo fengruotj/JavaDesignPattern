@@ -18,6 +18,7 @@
         <module name="observer-pattern" />
         <module name="proxy-pattern" />
         <module name="single-pattern" />
+        <module name="state-pattern" />
         <module name="strategy-pattern" />
         <module name="templatemethod-pattern" />
       </profile>
@@ -38,6 +39,7 @@
       <module name="proxy-pattern" target="1.7" />
       <module name="single-pattern" target="1.7" />
       <module name="singleton-pattern" target="1.7" />
+      <module name="state-pattern" target="1.7" />
       <module name="strategy-pattern" target="1.7" />
       <module name="templatemethod-pattern" target="1.7" />
     </bytecodeTargetLevel>
