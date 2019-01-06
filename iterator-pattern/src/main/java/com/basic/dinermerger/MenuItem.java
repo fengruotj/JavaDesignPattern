@@ -1,4 +1,4 @@
-package com.basic;
+package com.basic.dinermerger;
 
 public class MenuItem {
 	String name;
