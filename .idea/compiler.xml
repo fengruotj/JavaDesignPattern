@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="adapter-pattern" />
         <module name="command-pattern" />
+        <module name="composite-pattern" />
         <module name="decorator-pattern" />
         <module name="design-pattern" />
         <module name="facade-pattern" />
@@ -25,6 +26,7 @@
       <module name="aaa" target="1.7" />
       <module name="adapter-pattern" target="1.7" />
       <module name="command-pattern" target="1.7" />
+      <module name="composite-pattern" target="1.7" />
       <module name="decorator-pattern" target="1.7" />
       <module name="design-pattern" target="1.7" />
       <module name="facade-pattern" target="1.7" />
