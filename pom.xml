@@ -24,6 +24,7 @@
       <module>mvcweb-pattern</module>
       <module>bridge-pattern</module>
       <module>builder-pattern</module>
+    <module>chain-pattern</module>
   </modules>
   <packaging>pom</packaging>
 

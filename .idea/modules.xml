@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" filepath="$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/bridge-pattern/bridge-pattern.iml" filepath="$PROJECT_DIR$/bridge-pattern/bridge-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder-pattern/builder-pattern.iml" filepath="$PROJECT_DIR$/builder-pattern/builder-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chain-pattern/chain-pattern.iml" filepath="$PROJECT_DIR$/chain-pattern/chain-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/combing-pattern/combing-pattern.iml" filepath="$PROJECT_DIR$/combing-pattern/combing-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/command-pattern/command-pattern.iml" filepath="$PROJECT_DIR$/command-pattern/command-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/composite-pattern/composite-pattern.iml" filepath="$PROJECT_DIR$/composite-pattern/composite-pattern.iml" />
