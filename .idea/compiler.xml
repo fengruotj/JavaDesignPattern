@@ -22,6 +22,7 @@
         <module name="iterator-pattern" />
         <module name="java-design-pattern" />
         <module name="mediator-pattern" />
+        <module name="memento-pattern" />
         <module name="mvc-pattern" />
         <module name="mvcweb-pattern" />
         <module name="observer-pattern" />
@@ -51,6 +52,7 @@
       <module name="java-design-pattern" target="1.7" />
       <module name="JavaDesignPattern" target="1.7" />
       <module name="mediator-pattern" target="1.7" />
+      <module name="memento-pattern" target="1.7" />
       <module name="mvc-pattern" target="1.7" />
       <module name="mvcweb-pattern" target="1.7" />
       <module name="observer-pattern" target="1.7" />
