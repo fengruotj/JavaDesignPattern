@@ -25,6 +25,7 @@
       <module>bridge-pattern</module>
       <module>builder-pattern</module>
     <module>chain-pattern</module>
+      <module>flyweight-pattern</module>
   </modules>
   <packaging>pom</packaging>
 

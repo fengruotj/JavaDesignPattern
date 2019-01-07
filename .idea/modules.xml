@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" filepath="$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/facade-pattern/facade-pattern.iml" filepath="$PROJECT_DIR$/facade-pattern/facade-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory-pattern/factory-pattern.iml" filepath="$PROJECT_DIR$/factory-pattern/factory-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flyweight-pattern/flyweight-pattern.iml" filepath="$PROJECT_DIR$/flyweight-pattern/flyweight-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator-pattern/iterator-pattern.iml" filepath="$PROJECT_DIR$/iterator-pattern/iterator-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvc-pattern/mvc-pattern.iml" filepath="$PROJECT_DIR$/mvc-pattern/mvc-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvcweb-pattern/mvcweb-pattern.iml" filepath="$PROJECT_DIR$/mvcweb-pattern/mvcweb-pattern.iml" />
