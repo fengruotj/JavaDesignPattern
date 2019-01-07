@@ -23,6 +23,7 @@
       <module>mvc-pattern</module>
       <module>mvcweb-pattern</module>
       <module>bridge-pattern</module>
+      <module>builder-pattern</module>
   </modules>
   <packaging>pom</packaging>
 

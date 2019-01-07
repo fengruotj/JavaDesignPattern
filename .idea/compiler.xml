@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="adapter-pattern" />
         <module name="bridge-pattern" />
+        <module name="builder-pattern" />
         <module name="combing-pattern" />
         <module name="command-pattern" />
         <module name="composite-pattern" />
@@ -31,6 +32,7 @@
       <module name="aaa" target="1.7" />
       <module name="adapter-pattern" target="1.7" />
       <module name="bridge-pattern" target="1.7" />
+      <module name="builder-pattern" target="1.7" />
       <module name="combing-pattern" target="1.7" />
       <module name="command-pattern" target="1.7" />
       <module name="composite-pattern" target="1.7" />
