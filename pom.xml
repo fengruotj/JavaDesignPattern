@@ -26,6 +26,7 @@
       <module>builder-pattern</module>
     <module>chain-pattern</module>
       <module>flyweight-pattern</module>
+    <module>interpreter-pattern</module>
   </modules>
   <packaging>pom</packaging>
 

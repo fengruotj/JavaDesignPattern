@@ -18,6 +18,7 @@
         <module name="facade-pattern" />
         <module name="factory-pattern" />
         <module name="flyweight-pattern" />
+        <module name="interpreter-pattern" />
         <module name="iterator-pattern" />
         <module name="java-design-pattern" />
         <module name="mvc-pattern" />
@@ -44,6 +45,7 @@
       <module name="facade-pattern" target="1.7" />
       <module name="factory-pattern" target="1.7" />
       <module name="flyweight-pattern" target="1.7" />
+      <module name="interpreter-pattern" target="1.7" />
       <module name="iterator-pattern" target="1.7" />
       <module name="java-design-pattern" target="1.7" />
       <module name="JavaDesignPattern" target="1.7" />
