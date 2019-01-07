@@ -22,6 +22,7 @@
       <module>combing-pattern</module>
       <module>mvc-pattern</module>
       <module>mvcweb-pattern</module>
+      <module>bridge-pattern</module>
   </modules>
   <packaging>pom</packaging>
 

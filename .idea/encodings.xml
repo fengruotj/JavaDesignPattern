@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/adapter-pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bridge-pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/combing-pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/command-pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/composite-pattern" charset="UTF-8" />
