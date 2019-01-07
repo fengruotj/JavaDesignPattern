@@ -21,6 +21,7 @@
     <module>state-pattern</module>
       <module>combing-pattern</module>
       <module>mvc-pattern</module>
+      <module>mvcweb-pattern</module>
   </modules>
   <packaging>pom</packaging>
 

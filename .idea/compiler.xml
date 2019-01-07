@@ -17,6 +17,7 @@
         <module name="iterator-pattern" />
         <module name="java-design-pattern" />
         <module name="mvc-pattern" />
+        <module name="mvcweb-pattern" />
         <module name="observer-pattern" />
         <module name="proxy-pattern" />
         <module name="single-pattern" />
@@ -39,6 +40,7 @@
       <module name="java-design-pattern" target="1.7" />
       <module name="JavaDesignPattern" target="1.7" />
       <module name="mvc-pattern" target="1.7" />
+      <module name="mvcweb-pattern" target="1.7" />
       <module name="observer-pattern" target="1.7" />
       <module name="proxy-pattern" target="1.8" />
       <module name="single-pattern" target="1.7" />
