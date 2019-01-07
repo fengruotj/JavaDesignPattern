@@ -20,6 +20,7 @@
     <module>composite-pattern</module>
     <module>state-pattern</module>
       <module>combing-pattern</module>
+      <module>mvc-pattern</module>
   </modules>
   <packaging>pom</packaging>
 
