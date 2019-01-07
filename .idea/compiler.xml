@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="adapter-pattern" />
+        <module name="combing-pattern" />
         <module name="command-pattern" />
         <module name="composite-pattern" />
         <module name="decorator-pattern" />
@@ -26,6 +27,7 @@
     <bytecodeTargetLevel>
       <module name="aaa" target="1.7" />
       <module name="adapter-pattern" target="1.7" />
+      <module name="combing-pattern" target="1.7" />
       <module name="command-pattern" target="1.7" />
       <module name="composite-pattern" target="1.7" />
       <module name="decorator-pattern" target="1.7" />

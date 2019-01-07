@@ -19,6 +19,7 @@
     <module>iterator-pattern</module>
     <module>composite-pattern</module>
     <module>state-pattern</module>
+      <module>combing-pattern</module>
   </modules>
   <packaging>pom</packaging>
 
