@@ -32,6 +32,7 @@
         <module name="state-pattern" />
         <module name="strategy-pattern" />
         <module name="templatemethod-pattern" />
+        <module name="visitor-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -64,6 +65,7 @@
       <module name="state-pattern" target="1.7" />
       <module name="strategy-pattern" target="1.7" />
       <module name="templatemethod-pattern" target="1.7" />
+      <module name="visitor-pattern" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -30,6 +30,7 @@
     <module>mediator-pattern</module>
     <module>memento-pattern</module>
       <module>prototy-pepattern</module>
+    <module>visitor-pattern</module>
   </modules>
   <packaging>pom</packaging>
 
