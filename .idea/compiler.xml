@@ -26,6 +26,7 @@
         <module name="mvc-pattern" />
         <module name="mvcweb-pattern" />
         <module name="observer-pattern" />
+        <module name="prototy-pepattern" />
         <module name="proxy-pattern" />
         <module name="single-pattern" />
         <module name="state-pattern" />
@@ -56,6 +57,7 @@
       <module name="mvc-pattern" target="1.7" />
       <module name="mvcweb-pattern" target="1.7" />
       <module name="observer-pattern" target="1.7" />
+      <module name="prototy-pepattern" target="1.7" />
       <module name="proxy-pattern" target="1.8" />
       <module name="single-pattern" target="1.7" />
       <module name="singleton-pattern" target="1.7" />

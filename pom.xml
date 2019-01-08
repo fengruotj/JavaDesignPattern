@@ -29,6 +29,7 @@
     <module>interpreter-pattern</module>
     <module>mediator-pattern</module>
     <module>memento-pattern</module>
+      <module>prototy-pepattern</module>
   </modules>
   <packaging>pom</packaging>
 

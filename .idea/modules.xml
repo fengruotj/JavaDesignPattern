@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/mvc-pattern/mvc-pattern.iml" filepath="$PROJECT_DIR$/mvc-pattern/mvc-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvcweb-pattern/mvcweb-pattern.iml" filepath="$PROJECT_DIR$/mvcweb-pattern/mvcweb-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer-pattern/observer-pattern.iml" filepath="$PROJECT_DIR$/observer-pattern/observer-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototy-pepattern/prototy-pepattern.iml" filepath="$PROJECT_DIR$/prototy-pepattern/prototy-pepattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" filepath="$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/single-pattern/single-pattern.iml" filepath="$PROJECT_DIR$/single-pattern/single-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/state-pattern/state-pattern.iml" filepath="$PROJECT_DIR$/state-pattern/state-pattern.iml" />
